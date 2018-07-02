@@ -70,6 +70,14 @@
     {
         "id": 18,
         "image": "https://upload.wikimedia.org/wikipedia/en/f/f2/The_Wire_Rhonda_Pearlman.jpg"
+    },
+    {
+        "id": 19,
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/The_Wire_Prez.jpg"
+    },
+    {
+        "id": 20,
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/af/The_Wire_Gutierrez.jpg"
     }
     
 ]
